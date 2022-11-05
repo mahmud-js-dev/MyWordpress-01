@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>BanksBoard Archives - BanksBoard</title>
+	<atom:link href="/https://mahmud-js-dev.github.io/MyWordpress-01/category/banksboard/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 06 Sep 2022 14:11:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/https://mahmud-js-dev.github.io/MyWordpress-01/wp-content/uploads/2022/08/logo-favicon.svg</url>
+	<title>BanksBoard Archives - BanksBoard</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dragon Point</title>
+		<link>/https://mahmud-js-dev.github.io/MyWordpress-01/dragon-point/</link>
+					<comments>/https://mahmud-js-dev.github.io/MyWordpress-01/dragon-point/#respond</comments>
+		
+		<dc:creator><![CDATA[mahmud]]></dc:creator>
+		<pubDate>Sun, 04 Sep 2022 15:50:18 +0000</pubDate>
+				<category><![CDATA[BanksBoard]]></category>
+		<guid isPermaLink="false">/https://mahmud-js-dev.github.io/MyWordpress-01/?p=328</guid>
+
+					<description><![CDATA[<p>What a way to tour the coast, you just swim and pull out when you tire. The sand is your bed and your gear is safely stored on your BanksBoard. We woke up to a beautiful and peaceful morning on the beach, we had breakfast packed up pretty quickly and got in the water as [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/https://mahmud-js-dev.github.io/MyWordpress-01/dragon-point/">Dragon Point</a> appeared first on <a rel="nofollow" href="/https://mahmud-js-dev.github.io/MyWordpress-01">BanksBoard</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/https://mahmud-js-dev.github.io/MyWordpress-01/dragon-point/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
